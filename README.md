@@ -9,7 +9,7 @@ There are a total of ten levels, each one harder than the next!
 Clone this repository by running:
 
 ```
-$ git clone https://github.com/hgarc014/git-game.git
+$ git clone https://github.com/mugt/game.git
 ```
 
 **You should always check the README.md file for your next clue!**
